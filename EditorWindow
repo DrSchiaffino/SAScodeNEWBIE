@@ -1,0 +1,11 @@
+This file will be a sample editor window so that you can always pull code from here and into your SAS Editor Window. 
+I will also try to include XL files and in links in a different file. 
+
+/* Weve already practiced linking the code you will need to link SAS to your folder */
+/* Note: I code SAS terms in ALLCAPS and input terms (variables, filenames, etc) in lowercase */
+LIBNAME alias "C:/....REAL location of a folder NOT a file";
+RUN;
+
+/* Let's import some data */;
+/* SAS can import pretty much any data type - we will start with raw, xl, cvs */
+
